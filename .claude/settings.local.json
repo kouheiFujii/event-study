@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm run build:*)",
+      "Bash(pnpm exec tsc:*)",
+      "Bash(pnpm run lint)",
+      "Bash(pnpm run format:*)",
+      "Bash(pnpm run lint:*)",
+      "mcp__serena__get_symbols_overview",
+      "mcp__serena__list_dir",
+      "mcp__serena__find_symbol",
+      "Bash(pnpm lint:*)",
+      "Bash(pnpm format:*)",
+      "Bash(pnpm check:*)",
+      "Bash(pnpm tsc:*)",
+      "mcp__serena__search_for_pattern"
+    ]
+  }
+}
